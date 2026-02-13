@@ -29,5 +29,12 @@ These exercises demonstrate the progression from simple shapes to complex geomet
 
 
 ## 👤 Author
-**[Nama Kamu / Elva]**
+**[Elva Rizqina Khoirun Nisa]**
 *Automation Engineering Technology Student*
+Universitas Diponegoro
+
+CAD dan CAM
+
+Dosen pengampu:
+Megarini Hersaputri, S.T., M.T. &
+Rofiq Cahyo Prayogo, S.T., M.Τ.
